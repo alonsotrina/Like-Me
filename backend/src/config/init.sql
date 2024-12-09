@@ -9,3 +9,4 @@ CREATE TABLE posts (
     likes INT DEFAULT 0
 );
 
+SELECT * FROM posts;
